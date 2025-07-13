@@ -5,6 +5,8 @@ import SignUp from "./SignUp.jsx"
 import LoginForm from "./LoginForm.jsx"
 import AboutUs from "./AboutUs.jsx"
 import Container from "./Container.jsx"
+import Input from "./Input.jsx"
+import Button from "./Button.jsx"
 
 export {
     Header,
@@ -13,5 +15,7 @@ export {
     SignUp,
     LoginForm,
     AboutUs,
-    Container
+    Container,
+    Input,
+    Button,
 }
